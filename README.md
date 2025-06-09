@@ -1,6 +1,8 @@
 # generic_enum_script.py
 Geneerinen enumerointiskripti penetraatiotestaukseen  
-Tämä skripti tehtiin osana opinnäytetyötä Turun ammattikorkeakoulussa.
+Tämä skripti tehtiin osana opinnäytetyötä Turun ammattikorkeakoulussa.  
+Skriptillä testattiin enumerointia neljään Hack The Box -kohteeseen. Skriptistä saadut tulokset on tallennettu kohteiden omiin kansioihin.
+Kohdekoneet: HTB Magic, HTB Resolute, HTB Knife, HTB Shibboleth.
 
 Tämä skripti on työkalu penetraatiotestauksen enumerointivaiheeseen, jossa hyödynnetään jo olemassa olevia työkaluja.  
 Skriptissä käytetyt työkalut: Nmap, Gobuster, Metasploit, Enum4Linux  

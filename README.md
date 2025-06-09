@@ -6,6 +6,7 @@ Kohdekoneet: HTB Magic, HTB Resolute, HTB Knife, HTB Shibboleth.
 
 Tämä skripti on työkalu penetraatiotestauksen enumerointivaiheeseen, jossa hyödynnetään jo olemassa olevia työkaluja.  
 Skriptissä käytetyt työkalut: Nmap, Gobuster, Metasploit, Enum4Linux  
+Työkalut eivät ole tämän projektin osia, ja niitä koskevat niiden omat lisenssiehdot.  
 Tämä työkalu on tarkoitettu ainoastaan luvalliseen tietoturvatestaukseen sekä opetuskäyttöön.  
 Työkalua EI saa käyttää kohteisiin, joihin ei ole lupaa.  
 Tekijä ei ole vastuussa tämän työkalun väärinkäytöstä, siitä aiheutuvasta vahingosta tai oikeudellisista seuraamuksista.  

@@ -1,0 +1,7 @@
+http://10.10.10.185/images               (Status: 301) [Size: 313] [--> http://10.10.10.185/images/]
+http://10.10.10.185/logout.php           (Status: 302) [Size: 0] [--> index.php]
+http://10.10.10.185/login.php            (Status: 200) [Size: 4221]
+http://10.10.10.185/assets               (Status: 301) [Size: 313] [--> http://10.10.10.185/assets/]
+http://10.10.10.185/upload.php           (Status: 302) [Size: 2957] [--> login.php]
+http://10.10.10.185/index.php            (Status: 200) [Size: 4053]
+http://10.10.10.185/server-status        (Status: 403) [Size: 277]

@@ -1,0 +1,2 @@
+OpenSSH 8.2p1 Ubuntu
+Apache httpd 2.4.41

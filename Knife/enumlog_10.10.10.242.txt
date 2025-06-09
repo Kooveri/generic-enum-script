@@ -1,0 +1,16 @@
+Ohjelma suoritettu: 2025-05-29 13:22:26 --- IP-Osoite 10.10.10.242
+ -yhteystarkastus:
+  Yhteystarkastus kohteeseen 10.10.10.242 onnistui!
+ -nmap_skannaus:
+ None
+ -tarkempi_nmap_skannaus:
+ Tarkempi Nmap skannaus tallennettu logitiedostoon: tarkempi_nmap_tulokset_10.10.10.242.txt
+ -gobuster_skannaus:
+ Suoritetaan Gobuster skannaus.
+Tulokset tallennetaan tiedostoon: gobuster_10.10.10.242.txt
+ -smb_enumeration:
+ smb_enumeration ajon tiedot tallennetaan tiedostoon smb_enum_10.10.10.242.txt
+ -suorita_metasploit:
+ Metasploit suoritettu
+ Suorituksen tiedot tallennettu tiedostoon: metasploit_haku_10.10.10.242.txt
+------------------------------

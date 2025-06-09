@@ -1,0 +1,10 @@
+
+Microsoft Windows Active
+.NET Message Framing
+Microsoft HTTPAPI httpd
+Microsoft Windows RPC
+Windows Server 2016
+Simple DNS Plus
+Microsoft Windows RPC
+Microsoft Windows Kerberos
+Microsoft Windows netbios-ssn

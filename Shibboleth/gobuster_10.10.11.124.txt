@@ -1,0 +1,7 @@
+http://shibboleth.htb/blog.html            (Status: 200) [Size: 19196]
+http://shibboleth.htb/assets               (Status: 301) [Size: 317] [--> http://shibboleth.htb/assets/]
+http://shibboleth.htb/forms                (Status: 301) [Size: 316] [--> http://shibboleth.htb/forms/]
+http://shibboleth.htb/index.html           (Status: 200) [Size: 59474]
+http://shibboleth.htb/server-status        (Status: 403) [Size: 279]
+http://shibboleth.htb/changelog.txt        (Status: 200) [Size: 499]
+http://shibboleth.htb/Readme.txt           (Status: 200) [Size: 218]

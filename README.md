@@ -13,12 +13,11 @@ Tekijä ei ota vastuuta skriptin toimivuudesta tai anna takuita sen toiminnalle.
 
 ## ⚠️ Vastuuvapauslauseke
 
-Tätä työkalua saa käyttää **ainoastaan luvallisiin tarkoituksiin**.  
-Älä koskaan käytä tätä ilman lupaa testattavaan kohteeseen.  
-**Käytät ohjelmaa täysin omalla vastuullasi.**
+Tätä työkalua saa käyttää **ainoastaan järjestelmissä, joihin sinulla on lupa**.  
+**Älä koskaan käytä tätä työkalua luvattomasti.**
 
-
-
+Tekijä ei ota vastuuta ohjelman väärinkäytöstä, vahingoista tai seurauksista.  
+**Käyttö on täysin omalla vastuulla.**
 
 
 ## License

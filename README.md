@@ -11,6 +11,16 @@ Työkalua EI saa käyttää kohteisiin, joihin ei ole lupaa.
 Tekijä ei ole vastuussa tämän työkalun väärinkäytöstä, siitä aiheutuvasta vahingosta tai oikeudellisista seuraamuksista.  
 Tekijä ei ota vastuuta skriptin toimivuudesta tai anna takuita sen toiminnalle.  
 
+## ⚠️ Vastuuvapauslauseke
+
+Tätä työkalua saa käyttää **ainoastaan luvallisiin tarkoituksiin**.  
+Älä koskaan käytä tätä ilman lupaa testattavaan kohteeseen.  
+**Käytät ohjelmaa täysin omalla vastuullasi.**
+
+
+
+
+
 ## License
 
 This project is released into the public domain under [The Unlicense](http://unlicense.org/).

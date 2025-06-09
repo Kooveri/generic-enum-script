@@ -1,4 +1,4 @@
-# generic-enum-script
+# generic_enum_script.py
 Geneerinen enumerointiskripti penetraatiotestaukseen  
 Tämä skripti tehtiin osana opinnäytetyötä Turun ammattikorkeakoulussa.
 
